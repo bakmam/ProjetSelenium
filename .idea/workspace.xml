@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3c6cee-e0ff-4bb5-9fe0-700ad91ef2b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../SeleniumCucumber/src/main/resources/configfile/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumCucumber/src/main/resources/configfile/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumCucumber/src/main/resources/driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumCucumber/src/main/resources/driver/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SeleniumCucumber/src/test/java/com/cucumber/framework/testng/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumCucumber/src/test/java/com/cucumber/framework/testng/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sia/src/main/resources/configfile/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Sia/src/main/resources/configfile/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sia/target/test-classes/configfile/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Sia/target/test-classes/configfile/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../SeleniumCucumber" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -46,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Sia/src/main/java" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
