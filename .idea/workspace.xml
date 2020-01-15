@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c3c6cee-e0ff-4bb5-9fe0-700ad91ef2b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SeleniumCucumber/src/main/resources/configfile/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumCucumber/src/main/resources/configfile/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumCucumber/src/main/resources/driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumCucumber/src/main/resources/driver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SeleniumCucumber/src/test/java/com/cucumber/framework/testng/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SeleniumCucumber/src/test/java/com/cucumber/framework/testng/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../SeleniumCucumber" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WLhS77sE5oPk67kEBUgW3I4PrC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Sia/src/main/java" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cucumber.framework.helper.PageObject" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projetjava\ProjetSelenium\Sia\src\main\java" />
+      <recent name="C:\projetjava\ProjetSelenium\Sia\src\test\java" />
+      <recent name="C:\projetjava\ProjetSelenium\Sia\src\test\java\com\sia\module" />
+      <recent name="C:\projetjava\ProjetSelenium\Sia\src\test" />
+      <recent name="C:\projetjava\ProjetSelenium\MyModuleSelenium\src\test\java\com\mymodule\framework" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projetjava\ProjetSelenium\Sia\src\test\resources\featurefile" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c3c6cee-e0ff-4bb5-9fe0-700ad91ef2b1" name="Default Changelist" comment="" />
+      <created>1578934778764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578934778764</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Project_Structure" timestamp="1578936106338">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1578936106338" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1578952007961">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578952007961" />
+    <state x="420" y="55" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578935191915">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="420" y="55" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1578935191915" />
+    <state x="485" y="80" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1579006016094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="485" y="80" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1579006016094" />
+    <state x="399" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578945457319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="399" y="293" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1578945457319" />
+    <state x="462" y="121" key="FileChooserDialogImpl" timestamp="1579006186433">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579006186433" />
+    <state width="1323" height="299" key="GridCell.Tab.0.bottom" timestamp="1579022243918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="299" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579022243918" />
+    <state width="1323" height="299" key="GridCell.Tab.0.center" timestamp="1579022243918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="299" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579022243918" />
+    <state width="1323" height="299" key="GridCell.Tab.0.left" timestamp="1579022243914">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="299" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579022243914" />
+    <state width="1323" height="299" key="GridCell.Tab.0.right" timestamp="1579022243918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="299" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579022243918" />
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog" timestamp="1579004518900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="21" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1579004518900" />
+    <state x="350" y="68" width="670" height="591" key="NewModule_or_Project.wizard" timestamp="1578935720641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="68" width="670" height="591" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1578935720641" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1579048151833">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579048151833" />
+    <state x="499" y="144" key="chooseDestDirectoryDialog" timestamp="1578948379010">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="144" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1578948379010" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1579022214306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579022214306" />
+    <state x="390" y="125" width="609" height="478" key="find.popup" timestamp="1579041430891">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="125" width="609" height="478" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1579041430891" />
+    <state x="65" y="68" key="new project wizard" timestamp="1578944451041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="68" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1578944451041" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1579027476761">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1579027476761" />
+  </component>
+</project>

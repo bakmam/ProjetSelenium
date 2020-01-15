@@ -1,0 +1,86 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 11594948500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "InitializeWebDrive.beforeChrome()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "connect to sia",
+        "description": "",
+        "id": "connect-to-sia;connect-to-sia",
+        "after": [
+          {
+            "result": {
+              "duration": 1411670600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "InitializeWebDrive.afterChrome(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 23964697500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "that i am on the sia website",
+            "match": {
+              "location": "ConnectStep.that_i_am_on_the_sia_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1702241600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "i enter email sia website",
+            "match": {
+              "location": "ConnectStep.i_enter_email_sia_website()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1156722000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "i enter password and click on website",
+            "match": {
+              "location": "ConnectStep.i_enter_password_and_click_on_website()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@chrome"
+          }
+        ]
+      }
+    ],
+    "name": "connect to sia",
+    "description": "",
+    "id": "connect-to-sia",
+    "keyword": "Feature",
+    "uri": "featurefile/ToConnect.feature"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "comments": [
+          {
+            "line": 3,
+            "value": "#shopping basket features"
+          }
+        ],
+        "before": [
+          {
+            "result": {
+              "duration": 10860683700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "InitializeWebDrive.before()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "add to basket",
+        "description": "",
+        "id": "basket;add-to-basket",
+        "after": [
+          {
+            "result": {
+              "duration": 1032271400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "InitializeWebDrive.after(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 18182076200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "that i am on the shopping website",
+            "match": {
+              "location": "Basket.that_i_am_on_the_shopping_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 35600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "i add an item to the basket",
+            "match": {
+              "location": "Basket.i_add_an_item_to_the_basket()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5147900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "i can view the item in my basket",
+            "match": {
+              "location": "Basket.i_can_view_the_item_in_my_basket()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "basket",
+    "description": "",
+    "id": "basket",
+    "keyword": "Feature",
+    "uri": "featurefile/basket.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@run"
+      }
+    ]
+  }
+]

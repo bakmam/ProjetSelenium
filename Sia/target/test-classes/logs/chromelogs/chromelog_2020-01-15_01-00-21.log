@@ -1,0 +1,282 @@
+[1579046422.450][INFO]: Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})
+[1579046422.459][INFO]: Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1579046423.388][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND InitSession {
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "chromeOptions": {
+         "args": [ "start-maximized" ],
+         "extensions": [  ]
+      },
+      "javascriptEnabled": true,
+      "platform": "ANY",
+      "version": ""
+   }
+}
+[1579046423.399][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1579046423.402][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1579046423.419][INFO]: Cannot switch to US keyboard layout - some keys may be interpreted incorrectly
+[1579046423.419][INFO]: Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-automation --enable-blink-features=ShadowDOMV0 --enable-logging --load-extension="C:\Users\BAKHAY~1\AppData\Local\Temp\scoped_dir5936_113311941\internal" --log-level=0 --no-first-run --password-store=basic --remote-debugging-port=0 --start-maximized --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\BAKHAY~1\AppData\Local\Temp\scoped_dir5936_1650688261" data:,
+[1579046424.400][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1579046426.400][WARNING]: Timed out connecting to Chrome, retrying...
+[1579046426.401][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1579046428.442][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE InitSession {
+   "acceptInsecureCerts": false,
+   "acceptSslCerts": false,
+   "applicationCacheEnabled": false,
+   "browserConnectionEnabled": false,
+   "browserName": "chrome",
+   "chrome": {
+      "chromedriverVersion": "79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})",
+      "userDataDir": "C:\\Users\\BAKHAY~1\\AppData\\Local\\Temp\\scoped_dir5936_1650688261"
+   },
+   "cssSelectorsEnabled": true,
+   "databaseEnabled": false,
+   "goog:chromeOptions": {
+      "debuggerAddress": "localhost:64043"
+   },
+   "handlesAlerts": true,
+   "hasTouchScreen": false,
+   "javascriptEnabled": true,
+   "locationContextEnabled": true,
+   "mobileEmulationEnabled": false,
+   "nativeEvents": true,
+   "networkConnectionEnabled": false,
+   "pageLoadStrategy": "normal",
+   "platform": "Windows",
+   "proxy": {
+
+   },
+   "~~~": "..."
+}
+[1579046428.501][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND SetTimeouts {
+   "ms": 240000,
+   "type": "page load"
+}
+[1579046428.501][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE SetTimeouts
+[1579046428.516][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND SetTimeouts {
+   "ms": 2000,
+   "type": "implicit"
+}
+[1579046428.517][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE SetTimeouts
+[1579046428.532][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND MaximizeWindow {
+   "windowHandle": "current"
+}
+[1579046428.532][INFO]: Waiting for pending navigations...
+[1579046428.535][INFO]: Done waiting for pending navigations. Status: ok
+[1579046428.535][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1579046430.542][WARNING]: Timed out connecting to Chrome, retrying...
+[1579046430.543][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1579046432.579][INFO]: Waiting for pending navigations...
+[1579046432.580][INFO]: Done waiting for pending navigations. Status: ok
+[1579046432.580][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE MaximizeWindow {
+   "height": 744,
+   "width": 1382,
+   "x": -8,
+   "y": -8
+}
+[1579046432.892][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND Navigate {
+   "url": "https://uat-sia.gs1.fr/autologin"
+}
+[1579046432.892][INFO]: Waiting for pending navigations...
+[1579046432.893][INFO]: Done waiting for pending navigations. Status: ok
+[1579046433.296][INFO]: Waiting for pending navigations...
+[1579046439.638][INFO]: Done waiting for pending navigations. Status: ok
+[1579046439.638][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE Navigate
+[1579046439.695][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND SetTimeouts {
+   "ms": 15000,
+   "type": "implicit"
+}
+[1579046439.695][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE SetTimeouts
+[1579046439.708][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//input[@id='Email']"
+}
+[1579046439.708][INFO]: Waiting for pending navigations...
+[1579046439.709][INFO]: Done waiting for pending navigations. Status: ok
+[1579046439.727][INFO]: Waiting for pending navigations...
+[1579046439.728][INFO]: Done waiting for pending navigations. Status: ok
+[1579046439.728][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE FindElement {
+   "ELEMENT": "0.8428515163058568-1"
+}
+[1579046439.740][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND ClickElement {
+   "id": "0.8428515163058568-1"
+}
+[1579046439.740][INFO]: Waiting for pending navigations...
+[1579046439.741][INFO]: Done waiting for pending navigations. Status: ok
+[1579046439.815][INFO]: Waiting for pending navigations...
+[1579046439.816][INFO]: Done waiting for pending navigations. Status: ok
+[1579046439.816][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE ClickElement
+[1579046439.820][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//input[@id='Email']"
+}
+[1579046439.820][INFO]: Waiting for pending navigations...
+[1579046439.821][INFO]: Done waiting for pending navigations. Status: ok
+[1579046439.828][INFO]: Waiting for pending navigations...
+[1579046439.828][INFO]: Done waiting for pending navigations. Status: ok
+[1579046439.828][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE FindElement {
+   "ELEMENT": "0.8428515163058568-1"
+}
+[1579046439.832][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND TypeElement {
+   "id": "0.8428515163058568-1",
+   "value": [ "Rabeb.Mezgar@gs1fr.org" ]
+}
+[1579046439.832][INFO]: Waiting for pending navigations...
+[1579046439.833][INFO]: Done waiting for pending navigations. Status: ok
+[1579046439.975][INFO]: Waiting for pending navigations...
+[1579046439.976][INFO]: Done waiting for pending navigations. Status: ok
+[1579046439.976][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE TypeElement
+[1579046439.980][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//input[@id='Email']"
+}
+[1579046439.980][INFO]: Waiting for pending navigations...
+[1579046439.981][INFO]: Done waiting for pending navigations. Status: ok
+[1579046439.986][INFO]: Waiting for pending navigations...
+[1579046439.986][INFO]: Done waiting for pending navigations. Status: ok
+[1579046439.986][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE FindElement {
+   "ELEMENT": "0.8428515163058568-1"
+}
+[1579046439.993][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND TypeElement {
+   "id": "0.8428515163058568-1",
+   "value": [ "" ]
+}
+[1579046439.993][INFO]: Waiting for pending navigations...
+[1579046439.993][INFO]: Done waiting for pending navigations. Status: ok
+[1579046440.021][INFO]: Waiting for pending navigations...
+[1579046440.022][INFO]: Done waiting for pending navigations. Status: ok
+[1579046440.022][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE TypeElement
+[1579046440.024][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND SetTimeouts {
+   "ms": 15000,
+   "type": "implicit"
+}
+[1579046440.024][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE SetTimeouts
+[1579046440.028][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//input[@id='password-field']"
+}
+[1579046440.028][INFO]: Waiting for pending navigations...
+[1579046440.029][INFO]: Done waiting for pending navigations. Status: ok
+[1579046440.398][INFO]: Waiting for pending navigations...
+[1579046440.572][INFO]: Done waiting for pending navigations. Status: ok
+[1579046440.572][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE FindElement {
+   "ELEMENT": "0.19571840165874654-1"
+}
+[1579046440.576][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND ClickElement {
+   "id": "0.19571840165874654-1"
+}
+[1579046440.576][INFO]: Waiting for pending navigations...
+[1579046440.579][INFO]: Done waiting for pending navigations. Status: ok
+[1579046440.635][INFO]: Waiting for pending navigations...
+[1579046440.638][INFO]: Done waiting for pending navigations. Status: ok
+[1579046440.638][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE ClickElement
+[1579046440.644][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//input[@id='password-field']"
+}
+[1579046440.644][INFO]: Waiting for pending navigations...
+[1579046440.645][INFO]: Done waiting for pending navigations. Status: ok
+[1579046440.650][INFO]: Waiting for pending navigations...
+[1579046440.651][INFO]: Done waiting for pending navigations. Status: ok
+[1579046440.651][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE FindElement {
+   "ELEMENT": "0.19571840165874654-1"
+}
+[1579046440.656][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND TypeElement {
+   "id": "0.19571840165874654-1",
+   "value": [ "Rabouba1986&" ]
+}
+[1579046440.656][INFO]: Waiting for pending navigations...
+[1579046440.657][INFO]: Done waiting for pending navigations. Status: ok
+[1579046440.735][INFO]: Waiting for pending navigations...
+[1579046440.736][INFO]: Done waiting for pending navigations. Status: ok
+[1579046440.736][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE TypeElement
+[1579046440.740][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//input[@id='password-field']"
+}
+[1579046440.740][INFO]: Waiting for pending navigations...
+[1579046440.741][INFO]: Done waiting for pending navigations. Status: ok
+[1579046440.746][INFO]: Waiting for pending navigations...
+[1579046440.747][INFO]: Done waiting for pending navigations. Status: ok
+[1579046440.747][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE FindElement {
+   "ELEMENT": "0.19571840165874654-1"
+}
+[1579046440.752][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND TypeElement {
+   "id": "0.19571840165874654-1",
+   "value": [ "" ]
+}
+[1579046440.752][INFO]: Waiting for pending navigations...
+[1579046440.753][INFO]: Done waiting for pending navigations. Status: ok
+[1579046440.775][INFO]: Waiting for pending navigations...
+[1579046441.926][INFO]: Done waiting for pending navigations. Status: ok
+[1579046441.926][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE TypeElement
+[1579046441.929][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND SetTimeouts {
+   "ms": 60000,
+   "type": "implicit"
+}
+[1579046441.929][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE SetTimeouts
+[1579046441.937][INFO]: [e884a5011e2263b0da61beafaa1edbaf] COMMAND Quit {
+
+}
+[1579046441.985][INFO]: [e884a5011e2263b0da61beafaa1edbaf] RESPONSE Quit

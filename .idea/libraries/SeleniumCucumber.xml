@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SeleniumCucumber">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SeleniumCucumber/out/artifacts/SeleniumCucumber_jar/SeleniumCucumber.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

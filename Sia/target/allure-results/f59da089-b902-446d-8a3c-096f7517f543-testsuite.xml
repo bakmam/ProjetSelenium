@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1579045075519" stop="1579045099876" version="1.4.22" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Sia Connect : Test - 1</name>
+    <title>Sia Connect : Test - 1</title>
+    <test-cases>
+        <test-case start="1579045076566" stop="1579045099705" status="passed">
+            <name>feature[connect to sia]</name>
+            <description>Runs Cucumber Feature</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-31RGVP0"/>
+                <label name="thread" value="244@DESKTOP-31RGVP0.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1579045076566" stop="1579045099705" status="passed">
+            <name>feature[connect to sia]</name>
+            <description>Runs Cucumber Feature</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-31RGVP0"/>
+                <label name="thread" value="244@DESKTOP-31RGVP0.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

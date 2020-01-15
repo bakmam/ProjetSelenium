@@ -1,0 +1,5 @@
+2020-01-14 16:35:46 [INFO ] [InitializeWebDrive] - [standAloneStepUp] PhantomJs
+2020-01-14 16:35:57 [INFO ] [InitializeWebDrive] - [before] PhantomJs
+2020-01-14 16:36:16 [INFO ] [InitializeWebDrive] - [tearDownDriver] Shutting Down the driver
+2020-01-14 16:36:16 [INFO ] [InitializeWebDrive] - [after] 
+2020-01-14 16:36:21 [INFO ] [CucumberReport] - [onFinish] Report Generated : target\test-classes\reports\cucumberreports

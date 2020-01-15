@@ -1,0 +1,181 @@
+[1579046298.485][INFO]: Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})
+[1579046298.485][INFO]: Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1579046299.330][INFO]: [dac13f0142069e5ee3f387f69c8b5823] COMMAND InitSession {
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "chromeOptions": {
+         "args": [ "start-maximized" ],
+         "extensions": [  ]
+      },
+      "javascriptEnabled": true,
+      "platform": "ANY",
+      "version": ""
+   }
+}
+[1579046299.341][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1579046299.344][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1579046299.361][INFO]: Cannot switch to US keyboard layout - some keys may be interpreted incorrectly
+[1579046299.361][INFO]: Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-automation --enable-blink-features=ShadowDOMV0 --enable-logging --load-extension="C:\Users\BAKHAY~1\AppData\Local\Temp\scoped_dir12748_56282564\internal" --log-level=0 --no-first-run --password-store=basic --remote-debugging-port=0 --start-maximized --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\BAKHAY~1\AppData\Local\Temp\scoped_dir12748_1316777725" data:,
+[1579046300.090][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1579046302.080][WARNING]: Timed out connecting to Chrome, retrying...
+[1579046302.082][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1579046304.136][INFO]: [dac13f0142069e5ee3f387f69c8b5823] RESPONSE InitSession {
+   "acceptInsecureCerts": false,
+   "acceptSslCerts": false,
+   "applicationCacheEnabled": false,
+   "browserConnectionEnabled": false,
+   "browserName": "chrome",
+   "chrome": {
+      "chromedriverVersion": "79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})",
+      "userDataDir": "C:\\Users\\BAKHAY~1\\AppData\\Local\\Temp\\scoped_dir12748_1316777725"
+   },
+   "cssSelectorsEnabled": true,
+   "databaseEnabled": false,
+   "goog:chromeOptions": {
+      "debuggerAddress": "localhost:63881"
+   },
+   "handlesAlerts": true,
+   "hasTouchScreen": false,
+   "javascriptEnabled": true,
+   "locationContextEnabled": true,
+   "mobileEmulationEnabled": false,
+   "nativeEvents": true,
+   "networkConnectionEnabled": false,
+   "pageLoadStrategy": "normal",
+   "platform": "Windows",
+   "proxy": {
+
+   },
+   "~~~": "..."
+}
+[1579046304.206][INFO]: [dac13f0142069e5ee3f387f69c8b5823] COMMAND SetTimeouts {
+   "ms": 240000,
+   "type": "page load"
+}
+[1579046304.206][INFO]: [dac13f0142069e5ee3f387f69c8b5823] RESPONSE SetTimeouts
+[1579046304.221][INFO]: [dac13f0142069e5ee3f387f69c8b5823] COMMAND SetTimeouts {
+   "ms": 2000,
+   "type": "implicit"
+}
+[1579046304.221][INFO]: [dac13f0142069e5ee3f387f69c8b5823] RESPONSE SetTimeouts
+[1579046304.237][INFO]: [dac13f0142069e5ee3f387f69c8b5823] COMMAND MaximizeWindow {
+   "windowHandle": "current"
+}
+[1579046304.237][INFO]: Waiting for pending navigations...
+[1579046304.239][INFO]: Done waiting for pending navigations. Status: ok
+[1579046304.240][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1579046306.253][WARNING]: Timed out connecting to Chrome, retrying...
+[1579046306.254][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1579046308.292][INFO]: Waiting for pending navigations...
+[1579046308.293][INFO]: Done waiting for pending navigations. Status: ok
+[1579046308.293][INFO]: [dac13f0142069e5ee3f387f69c8b5823] RESPONSE MaximizeWindow {
+   "height": 744,
+   "width": 1382,
+   "x": -8,
+   "y": -8
+}
+[1579046308.607][INFO]: [dac13f0142069e5ee3f387f69c8b5823] COMMAND Navigate {
+   "url": "https://uat-sia.gs1.fr/autologin"
+}
+[1579046308.607][INFO]: Waiting for pending navigations...
+[1579046308.608][INFO]: Done waiting for pending navigations. Status: ok
+[1579046308.926][INFO]: Waiting for pending navigations...
+[1579046316.044][INFO]: Done waiting for pending navigations. Status: ok
+[1579046316.044][INFO]: [dac13f0142069e5ee3f387f69c8b5823] RESPONSE Navigate
+[1579046316.096][INFO]: [dac13f0142069e5ee3f387f69c8b5823] COMMAND SetTimeouts {
+   "ms": 15000,
+   "type": "implicit"
+}
+[1579046316.096][INFO]: [dac13f0142069e5ee3f387f69c8b5823] RESPONSE SetTimeouts
+[1579046316.100][INFO]: [dac13f0142069e5ee3f387f69c8b5823] COMMAND FindElement {
+   "using": "xpath",
+   "value": "//input[@id='Email']"
+}
+[1579046316.100][INFO]: Waiting for pending navigations...
+[1579046316.101][INFO]: Done waiting for pending navigations. Status: ok
+[1579046316.112][INFO]: Waiting for pending navigations...
+[1579046316.113][INFO]: Done waiting for pending navigations. Status: ok
+[1579046316.113][INFO]: [dac13f0142069e5ee3f387f69c8b5823] RESPONSE FindElement {
+   "ELEMENT": "0.46718370580081303-1"
+}
+[1579046316.134][INFO]: [dac13f0142069e5ee3f387f69c8b5823] COMMAND ClickElement {
+   "id": "0.46718370580081303-1"
+}
+[1579046316.134][INFO]: Waiting for pending navigations...
+[1579046316.135][INFO]: Done waiting for pending navigations. Status: ok
+[1579046316.189][INFO]: Waiting for pending navigations...
+[1579046316.190][INFO]: Done waiting for pending navigations. Status: ok
+[1579046316.190][INFO]: [dac13f0142069e5ee3f387f69c8b5823] RESPONSE ClickElement
+[1579046316.254][INFO]: [dac13f0142069e5ee3f387f69c8b5823] COMMAND Screenshot {
+
+}
+[1579046316.255][INFO]: Waiting for pending navigations...
+[1579046316.255][INFO]: Done waiting for pending navigations. Status: ok
+[1579046316.597][INFO]: Waiting for pending navigations...
+[1579046316.644][INFO]: Done waiting for pending navigations. Status: ok
+[1579046316.644][INFO]: [dac13f0142069e5ee3f387f69c8b5823] RESPONSE Screenshot "iVBORw0KGgoAAAANSUhEUgAABVYAAAJSCAYAAAAoD56KAAAAAXNSR0IArs4c6QAAIABJREFUeJzs3X9clfX9//GnoZCGqDQcU3B6E62BKVFic1RA7RNrBpS/GiqhKaVjyeqTv2KJzZTso6Fj1tCU1FyWNmTOcEvgs5hNLEQT0sKvDtAP6UaKJ/WgyPePczicwy+5A..."
+[1579046316.723][INFO]: [dac13f0142069e5ee3f387f69c8b5823] COMMAND Quit {
+
+}
+[1579046316.793][INFO]: [dac13f0142069e5ee3f387f69c8b5823] RESPONSE Quit

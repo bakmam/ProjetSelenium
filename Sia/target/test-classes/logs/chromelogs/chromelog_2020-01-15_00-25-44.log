@@ -1,0 +1,123 @@
+[1579044345.928][INFO]: Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})
+[1579044345.928][INFO]: Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1579044346.751][INFO]: [074fcc24a3db6b6c24c2deccb41384a9] COMMAND InitSession {
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "chromeOptions": {
+         "args": [ "start-maximized" ],
+         "extensions": [  ]
+      },
+      "javascriptEnabled": true,
+      "platform": "ANY",
+      "version": ""
+   }
+}
+[1579044346.761][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1579044346.763][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1579044346.781][INFO]: Cannot switch to US keyboard layout - some keys may be interpreted incorrectly
+[1579044346.781][INFO]: Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-automation --enable-blink-features=ShadowDOMV0 --enable-logging --load-extension="C:\Users\BAKHAY~1\AppData\Local\Temp\scoped_dir17388_1125351974\internal" --log-level=0 --no-first-run --password-store=basic --remote-debugging-port=0 --start-maximized --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\BAKHAY~1\AppData\Local\Temp\scoped_dir17388_1661746036" data:,
+[1579044347.575][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1579044349.535][WARNING]: Timed out connecting to Chrome, retrying...
+[1579044349.537][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1579044351.584][INFO]: [074fcc24a3db6b6c24c2deccb41384a9] RESPONSE InitSession {
+   "acceptInsecureCerts": false,
+   "acceptSslCerts": false,
+   "applicationCacheEnabled": false,
+   "browserConnectionEnabled": false,
+   "browserName": "chrome",
+   "chrome": {
+      "chromedriverVersion": "79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614})",
+      "userDataDir": "C:\\Users\\BAKHAY~1\\AppData\\Local\\Temp\\scoped_dir17388_1661746036"
+   },
+   "cssSelectorsEnabled": true,
+   "databaseEnabled": false,
+   "goog:chromeOptions": {
+      "debuggerAddress": "localhost:62335"
+   },
+   "handlesAlerts": true,
+   "hasTouchScreen": false,
+   "javascriptEnabled": true,
+   "locationContextEnabled": true,
+   "mobileEmulationEnabled": false,
+   "nativeEvents": true,
+   "networkConnectionEnabled": false,
+   "pageLoadStrategy": "normal",
+   "platform": "Windows",
+   "proxy": {
+
+   },
+   "~~~": "..."
+}
+[1579044351.683][INFO]: [074fcc24a3db6b6c24c2deccb41384a9] COMMAND Screenshot {
+
+}
+[1579044351.683][INFO]: Waiting for pending navigations...
+[1579044351.686][INFO]: Done waiting for pending navigations. Status: ok
+[1579044352.045][INFO]: Waiting for pending navigations...
+[1579044352.045][INFO]: Done waiting for pending navigations. Status: ok
+[1579044352.045][INFO]: [074fcc24a3db6b6c24c2deccb41384a9] RESPONSE Screenshot "iVBORw0KGgoAAAANSUhEUgAABVYAAAJSCAYAAAAoD56KAAAAAXNSR0IArs4c6QAAEYdJREFUeJzt2MENwCAQwLDS/Xc+ViAvhGRPkHfWzMwHAAAAAMCx/3YAAAAAAMBrjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAg..."
+[1579044352.101][INFO]: [074fcc24a3db6b6c24c2deccb41384a9] COMMAND Quit {
+
+}
+[1579044352.160][INFO]: [074fcc24a3db6b6c24c2deccb41384a9] RESPONSE Quit

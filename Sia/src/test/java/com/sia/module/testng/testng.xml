@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Sia Connect">
+	<listeners>
+		<listener
+				class-name="com.cucumber.framework.listeners.reportlistener.CucumberReport" />
+	</listeners>
+	<test name="Test - 1">
+		<classes>
+			<class name="com.sia.module.runner.ConnectRunner" />
+		</classes>
+	</test>
+</suite> 

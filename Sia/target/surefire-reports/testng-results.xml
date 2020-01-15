@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sia Connect" duration-ms="41279" started-at="2020-01-15T00:33:41Z" finished-at="2020-01-15T00:34:22Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.sia.module.runner.ConnectRunner@4ee5b2d9]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Test - 1" duration-ms="41279" started-at="2020-01-15T00:33:41Z" finished-at="2020-01-15T00:34:22Z">
+      <class name="com.sia.module.runner.ConnectRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.sia.module.runner.ConnectRunner@4ee5b2d9]" name="setUpClass" is-config="true" duration-ms="809" started-at="2020-01-15T01:33:41Z" finished-at="2020-01-15T01:33:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.sia.module.runner.ConnectRunner@4ee5b2d9]" name="feature" duration-ms="40080" started-at="2020-01-15T01:33:42Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-01-15T01:34:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[connect to sia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.sia.module.runner.ConnectRunner@4ee5b2d9]" name="tearDownClass" is-config="true" duration-ms="20" started-at="2020-01-15T01:34:22Z" finished-at="2020-01-15T01:34:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.sia.module.runner.ConnectRunner -->
+    </test> <!-- Test - 1 -->
+  </suite> <!-- Sia Connect -->
+</testng-results>
